@@ -11,11 +11,11 @@
 
 Start the virtual camera on OBS:
 
-![start-virtual-camera](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/start-virtual-camera.png?raw=true)
+![start-virtual-camera](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/start-virtual-cam.png?raw=true)
 
 ### On Zoom, choose the OBS camera as your input video:
  
- 
+
 
 ![zoom-configuration](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/zoom-configuration.png?raw=true)
 
