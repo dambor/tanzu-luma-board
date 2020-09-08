@@ -3,11 +3,15 @@
 
 ## Tooling
 
-*  Download OBS
-* Download Virtual Camera <https://github.com/johnboiles/obs-mac-virtualcam/releases>
-* Make sure you're using the latest Zoom version
-* Chroma Key backgdrop
-* Tablet
+* [Download OBS Project](https://obsproject.com/forum/resources/obs-virtualcam.539/)
+* [Download Virtual Camera](https://github.com/johnboiles/obs-mac-virtualcam/releases)
+* [Make sure you're using the latest Zoom version](https://zoom.us/)
+* [Paper for ipad](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812)
+* [Miro](https://miro.com/app/dashboard/)
+* [Chroma Key backgdrop](https://www.amazon.com/gp/product/B07G7NSSZ9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* [Backdrop Stand](https://www.amazon.com/gp/product/B07S1RTP5Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* Tablet with a good [stylus](https://www.amazon.com/gp/product/B076CMMCZB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
 
 ## Integrating Zoom with OBS
 
@@ -77,8 +81,8 @@
 
 ![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/tsm.png?raw=true)
 
-I'm using pre-build whitboard for sake of better communication and engagement. You can find my Tanzu drwainings here.
+I'm using pre-build whitboard for sake of better communication and engagement. You can find my Tanzu drwainings [here](https://miro.com/app/board/o9J_kseF458=/).
 
-And no, you cannot use your markers for this whiteboard. That is merely figurative! :) 
+onAnd no, you cannot use your markers for this whiteboard. That is merely figurative! :) 
 
 Voilá!! Happy Tanzu Luma Whiteboarding!!
