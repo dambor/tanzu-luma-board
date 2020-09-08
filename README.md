@@ -81,8 +81,8 @@
 
 ![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/tsm.png?raw=true)
 
-I'm using pre-build whitboard for sake of better communication and engagement. You can find my Tanzu drwainings [here](https://miro.com/app/board/o9J_kseF458=/).
+I'm using pre-build whitboard for sake of better communication and engagement. You can find my Tanzu drawings [here](https://miro.com/app/board/o9J_kseF458=/).
 
-onAnd no, you cannot use your markers for this whiteboard. That is merely figurative! :) 
+And no, you cannot use your real markers on this whiteboard. That is merely figurative! :) 
 
-Voilá!! Happy Tanzu Luma Whiteboarding!!
+Voilá!! Happy Tanzu Luma Boarding!!
