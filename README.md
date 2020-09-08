@@ -70,3 +70,7 @@ On Zoom, choose the OBS camera as your input video:
 3.5. On the effect settings, tweack according to your desire. The Luma Min knob will give you that glass effect.
 
 ![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/luma-min.png?raw=true)
+
+3.6. Finally, adjust your picture where it is more appropriated for you whiteboard.
+
+![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/tsm.png?raw=true)
