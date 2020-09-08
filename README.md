@@ -57,3 +57,12 @@ On Zoom, choose the OBS camera as your input video:
 3.2. Choose the window where your ipad is being shared. In my case, I'm choosing the Quick time window as my ipad mini 4 doesn't have side car available. But you can pick whatever you're using to present your ipad screen at you computer.
 
 ![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/quick-time.png?raw=true)
+
+
+3.3. Once added, right click on it and add Filters
+
+![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/filters-2.png?raw=true)
+
+3.4. Add the Luma Key effect
+
+![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/luma-key-effect.png?raw=true)
