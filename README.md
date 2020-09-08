@@ -66,3 +66,7 @@ On Zoom, choose the OBS camera as your input video:
 3.4. Add the Luma Key effect
 
 ![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/luma-key-effect.png?raw=true)
+
+3.5. On the effect settings, tweack according to your desire. The Luma Min knob will give you that glass effect.
+
+![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/luma-min.png?raw=true)
