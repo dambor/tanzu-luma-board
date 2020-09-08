@@ -18,7 +18,7 @@ On Zoom, choose the OBS camera as your input video:
 
 ![zoom-configuration](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/zoom-configuration.png?raw=true)
 
-## Luma board
+## Creating a scene
 
 1. Create a scene
 
@@ -44,4 +44,16 @@ On Zoom, choose the OBS camera as your input video:
 
 ![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/chroma-key.png?raw=true)
 
-2.5. 
+2.5. Adjust the preferences according to your video quality until you see a gray background
+
+![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/final-result.png?raw=true)
+
+## Luma board
+
+3.1. Create a window capture
+
+![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/window-capture.png?raw=true)
+
+3.2. Choose the window where your ipad is being shared. In my case, I'm choosing the Quick time window as my ipad mini 4 doesn't have side car available. But you can pick whatever you're using to present your ipad screen at you computer.
+
+![scene](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/quick-time.png?raw=true)
