@@ -3,7 +3,7 @@
 
 ## Tooling
 
-* [Download OBS Project](https://obsproject.com/forum/resources/obs-virtualcam.539/)
+* [Download OBS Project](https://obsproject.com/download)
 * [Download Virtual Camera](https://github.com/johnboiles/obs-mac-virtualcam/releases)
 * [Make sure you're using the latest Zoom version](https://zoom.us/)
 * [Paper for ipad](https://apps.apple.com/us/app/paper-by-wetransfer/id506003812)
