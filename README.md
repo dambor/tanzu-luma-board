@@ -24,7 +24,7 @@
  
 ![zoom-configuration](https://github.com/dambor/tanzu-luma-board/blob/master/pictures/zoom-configuration.png?raw=true)
 
-## Creating a scene for your webcam
+## Creating a scene on OBS for your webcam
 
 1. Create a scene
 
